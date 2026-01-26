@@ -26,7 +26,7 @@ export const PROJECTS: Project[] = [
   {
     title: "Expense Tracker App",
     description: "Intuitive finance management tool with categorical spending insights and local data persistence.",
-    tech: ["Flutter", "SQFlite", "Charts"],
+    tech: ["Flutter", "Firebase", "Charts"],
     imageUrl: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800",
     githubUrl: "https://github.com/Muhammad-Rashid-172002/muhammad-rashid-portfolio" 
   },
@@ -47,14 +47,14 @@ export const PROJECTS: Project[] = [
   {
     title: "Noor Diesel Company",
     description: "Professional corporate presence for an industrial diesel company highlighting services and products.",
-    tech: ["Web Development", "Responsive Design"],
+    tech: ["Flutter Web", "Responsive Design"],
     imageUrl: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=800",
     githubUrl: "https://github.com/Muhammad-Rashid-172002/Noor-Diesel-Company-Website"
   },
   {
     title: "Fitness Tracker App",
     description: "Complete workout companion for tracking exercises, sets, and overall fitness journey progress.",
-    tech: ["Flutter", "State Management", "Git"],
+    tech: ["Flutter", "State Management", "Provider"],
     imageUrl: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800",
     githubUrl: "https://github.com/Muhammad-Rashid-172002/Fitness_App"
   }
@@ -72,14 +72,14 @@ export const SKILLS: Skill[] = [
 export const EXPERIENCES: ExperienceItem[] = [
   {
     role: "Flutter Developer Intern",
-    company: "Software Solutions Ltd",
-    period: "Jun 2023 - Dec 2023",
+    company: "MR Technologies Ltd",
+    period: "Jun 2025 - Dec 2025",
     description: "Contributed to the development of enterprise mobile applications using Flutter. Collaborated on UI implementation and Firebase integration for real-time data sync."
   },
   {
     role: "Software Engineer",
     company: "Freelance / Projects",
-    period: "2022 - Present",
+    period: "2024 - Present",
     description: "Built and deployed multiple high-performance apps for global clients. Focused on clean architecture, optimized performance, and scalability."
   }
 ];

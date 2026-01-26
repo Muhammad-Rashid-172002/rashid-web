@@ -93,7 +93,7 @@ const App: React.FC = () => {
               <div className="absolute inset-0 accent-gradient blur-3xl opacity-20 animate-pulse"></div>
               <img 
                 src="https://picsum.photos/id/1/800/800" 
-                alt="Portrait" 
+                alt="Muhammad Rashid" 
                 className="relative z-10 w-full h-full object-cover rounded-3xl border border-gray-800 shadow-2xl grayscale hover:grayscale-0 transition-all duration-500"
               />
             </div>
