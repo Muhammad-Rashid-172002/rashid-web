@@ -1,40 +1,77 @@
 <div align="center">
-  <img width="1200" height="475" alt="AI Studio App Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# 🚀 AI Studio Application
+# Muhammad Rashid — Software Engineer | Flutter Developer
 
-A modern AI-powered web application built for performance, scalability, and a clean user experience.  
-This project is designed to run locally with ease and can be deployed for production use.
-
-🔗 **Live Preview (AI Studio):**  
-https://ai.studio/apps/temp/1
+Welcome to my portfolio repository 👋  
+I am a **Software Engineer** specializing in **mobile application development using Flutter**, focused on building modern, scalable, and user-friendly applications.
 
 ---
 
-## ✨ Features
-- Modern and responsive UI
-- Clean and scalable project structure
-- Fast development setup
-- AI-powered functionality using Gemini API
+## 👨‍💻 About Me
+
+I am a passionate **Flutter Developer** with experience in designing and developing cross-platform mobile applications for **Android, iOS, and Web**.
+
+### What I Do:
+- 📱 Mobile App Development (Flutter)
+- 🔥 Firebase Integration
+- 🎨 Clean UI/UX Implementation
+- ⚙️ API Integration
+- 🚀 Performance Optimization
+
+I enjoy turning ideas into real-world applications with clean code and smooth user experiences.
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend:** React.js
-- **Runtime:** Node.js
-- **AI:** Gemini API
+## 🧠 Skills & Technologies
+
+- **Flutter & Dart**
+- **Firebase (Auth, Firestore, Storage, FCM)**
+- **REST APIs**
+- **State Management (Provider / GetX / Bloc)**
+- **Git & GitHub**
+- **Responsive UI Design**
 
 ---
 
-## ▶️ Run Locally
+## 📌 Portfolio Overview
+
+This repository contains the source code for my **personal portfolio website**, showcasing:
+
+- My skills & expertise  
+- Selected projects  
+- Professional background  
+- Contact information  
+
+The portfolio is designed to provide a clear overview of my work for **clients, recruiters, and collaborators**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Firebase**
+- **Modern UI Components**
+- **Clean Architecture**
+
+---
+
+## ▶️ Run the Portfolio Locally
 
 ### Prerequisites
-- Node.js (v18 or later recommended)
-- npm or yarn
 
-### Installation & Setup
+- **Flutter SDK**
+- **Dart**
+- **Node.js** (if required for tooling)
+- **Android Studio / VS Code**
 
-1. **Install dependencies**
+---
+
+### Installation Steps
+
+1. **Clone the repository**
    ```bash
-   npm install
+   git clone <repository-url>
+   cd <project-folder>
